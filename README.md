@@ -1,7 +1,8 @@
 ## Hello here! 👋🏽
 
 * My name is _Natalie_ 
-* I like programming, I am into Agile, psychology and enjoy reading books
+* I like learning programming 
+* I am into Agile, psychology and enjoy reading books
 * I am studying software engineering 👩‍💻
 * I use this space to save + share some of the projects that I have been working on since I have started coding, and continued either through trying various training, self-study, as a hobby, or through software engineering studies
 * Welcome to my GitHub space!🚀
