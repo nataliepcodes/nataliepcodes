@@ -31,6 +31,6 @@
 
 **HTML, CSS, JS**
 * [article about Agile in education](https://agile-scrum-kanban-in-education.netlify.app/) | [repo](https://github.com/nataliepcodes/Agile-in-Education-Blog-Post-1)
-* [homepage about interests website example](https://np-cs50x-homepage-project.netlify.app/) | [repo](https://github.com/nataliepcodes/CS50x-Homepage-project--Week-8---Problem-Set-8)
-* [portfolio website example](https://nataliep-portfolio.netlify.app/) | [repo](https://github.com/nataliepcodes/portfolio-website-project) 
+* [homepage about interests website example](https://np-cs50x-homepage-project.netlify.app/) | [repo](https://github.com/nataliepcodes/CS50-Homepage-Project)
+* [portfolio website example](https://nataliep-portfolio.netlify.app/) | [repo](https://github.com/nataliepcodes/Portfolio-Website-nataliep) 
 * [weather app](https://upbeat-hypatia-8a3802.netlify.app/) | [repo](https://github.com/nataliepcodes/weather-app-project)
