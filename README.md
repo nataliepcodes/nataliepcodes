@@ -17,7 +17,7 @@
 * [rock-paper-scissors](https://github.com/nataliepcodes/Rock-Paper-Scissors)
 
 **Python, Flask**
-* cli chatbot
+* [cli chatbot](https://github.com/nataliepcodes/ChatBot_CL)
 * birthdays
 * cash
 * readibility
