@@ -18,8 +18,7 @@
 
 **Python, Flask**
 * [cli chatbot](https://github.com/nataliepcodes/ChatBot_CL)
-* birthdays
-* cash
+* [birthdays](https://github.com/nataliepcodes/CS50-Birthdays-App-Project)
 * readibility
 * dna
 
