@@ -1,20 +1,13 @@
 ## Hello here! 👋🏽
 
-* My name is _Natalie_ 
-* I like learning programming 
-* I am into Agile, psychology and enjoy reading books
-* I use this space to save + share some of the projects that I have been working on since I have started coding, and continued either through trying various training, self-study, as a hobby, or through software engineering studies
+* My name is _Natalie_
 * Welcome to my GitHub space!🚀
 
 ## Projects 📂
 
 **C Programming**
-* [palindrome checker](https://github.com/nataliepcodes/palindrome_checker)
 * [mastermind](https://github.com/nataliepcodes/Mastermind)
-* [ngram](https://github.com/nataliepcodes/ngram)
-* [square](https://github.com/nataliepcodes/Square)
 * [cat cmd](https://github.com/nataliepcodes/Cat-Command)
-* [rock-paper-scissors](https://github.com/nataliepcodes/Rock-Paper-Scissors)
 
 **Python, Flask**
 * [cli chatbot](https://github.com/nataliepcodes/ChatBot_CL)
