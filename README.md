@@ -6,8 +6,8 @@
 ## Projects 📂
 
 **C Programming**
-* [mastermind](https://github.com/nataliepcodes/Mastermind)
-* [cat cmd](https://github.com/nataliepcodes/Cat-Command)
+* [Game implementation: Mastermind](https://github.com/nataliepcodes/Mastermind)
+* [Unix command implemention: cat cmd](https://github.com/nataliepcodes/Cat-Command)
 
 **Python, Flask**
 * [cli chatbot](https://github.com/nataliepcodes/ChatBot_CL)
