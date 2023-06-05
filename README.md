@@ -7,13 +7,11 @@
 
 **C Programming**
 * [Game implementation: Mastermind](https://github.com/nataliepcodes/Mastermind)
-* [Unix command implemention: cat cmd](https://github.com/nataliepcodes/Cat-Command)
+* [Unix command implementation: cat cmd](https://github.com/nataliepcodes/Cat-Command)
 
 **Python, Flask**
 * [cli chatbot](https://github.com/nataliepcodes/ChatBot_CL)
 * [birthdays](https://github.com/nataliepcodes/CS50-Birthdays-App-Project)
-* readibility
-* dna
 
 **SQL**
 * [fiftyville](https://github.com/nataliepcodes/fiftyville)
