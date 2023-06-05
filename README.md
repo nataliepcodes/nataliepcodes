@@ -6,6 +6,9 @@
 ## Projects 📂
 
 **C Programming**
+* [C standard library function implementation: printf()]
+* [Unix command implementation: ls cmd with non-directory and directory operands]
+* [Christmas tree project]
 * [Game implementation: Mastermind](https://github.com/nataliepcodes/Mastermind)
 * [Unix command implementation: cat cmd](https://github.com/nataliepcodes/Cat-Command)
 
