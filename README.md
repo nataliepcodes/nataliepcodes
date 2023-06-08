@@ -11,7 +11,7 @@
 * [Game implementation: Mastermind](https://github.com/nataliepcodes/Mastermind)
 * [Unix command implementation: cat cmd](https://github.com/nataliepcodes/Cat-Command)
 * _Currently working on:_
-  * Unix command implementation: ls cmd with non-directory and directory operands
+  * _[Unix command implementation: ls cmd with non-directory and directory operands](https://github.com/nataliepcodes/My-Ls)_
 
 **Python, Flask**
 * [cli chatbot](https://github.com/nataliepcodes/ChatBot_CL)
