@@ -6,12 +6,12 @@
 ## Projects 📂
 
 **C Programming**
-* C standard library function implementation: printf()
+* [C standard library function implementation: printf()](https://github.com/nataliepcodes/My-Printf)
 * [Christmas tree project](https://github.com/nataliepcodes/Christmas-Tree-Project)
 * [Game implementation: Mastermind](https://github.com/nataliepcodes/Mastermind)
 * [Unix command implementation: cat cmd](https://github.com/nataliepcodes/Cat-Command)
-* Currently working on:
-  * * Unix command implementation: ls cmd with non-directory and directory operands
+* _Currently working on:_
+  * Unix command implementation: ls cmd with non-directory and directory operands
 
 **Python, Flask**
 * [cli chatbot](https://github.com/nataliepcodes/ChatBot_CL)
