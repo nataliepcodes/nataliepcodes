@@ -22,6 +22,5 @@
 * [movies](https://github.com/nataliepcodes/SQL-movies)
 
 **HTML, CSS, JS**
-* [homepage about interests website example](https://np-cs50x-homepage-project.netlify.app/) | [repo](https://github.com/nataliepcodes/CS50-Homepage-Project)
 * [portfolio website example](https://nataliep-portfolio.netlify.app/) | [repo](https://github.com/nataliepcodes/Portfolio-Website-nataliep) 
 * [weather app](https://upbeat-hypatia-8a3802.netlify.app/) | [repo](https://github.com/nataliepcodes/weather-app-project)
