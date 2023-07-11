@@ -6,7 +6,7 @@
 ## Projects 📂
 
 **C Programming**
-```
+```diff
 @@ [Unix command implementation: ls command, -a, -t, directories](https://github.com/nataliepcodes/My-Ls) @@
 ```
 * [Christmas tree project](https://github.com/nataliepcodes/Christmas-Tree-Project)
