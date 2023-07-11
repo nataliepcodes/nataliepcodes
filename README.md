@@ -6,7 +6,7 @@
 ## Projects 📂
 
 **C Programming**
-* `@@ [Unix command implementation: ls command, -a, -t, directories](https://github.com/nataliepcodes/My-Ls) @@`
+* @@ [Unix command implementation: ls command, -a, -t, directories](https://github.com/nataliepcodes/My-Ls) @@
 * [Christmas tree project](https://github.com/nataliepcodes/Christmas-Tree-Project)
 * [C standard library function implementation: printf()](https://github.com/nataliepcodes/My-Printf)
 * [Unix command implementation: cat command](https://github.com/nataliepcodes/Cat-Command)
