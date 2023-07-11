@@ -6,10 +6,7 @@
 ## Projects 📂
 
 **C Programming**
-```diff
-!LATEST
-```
-* [Unix command implementation: ls command, -a, -t, directories](https://github.com/nataliepcodes/My-Ls)
+* $${\color{lightblue}[Unix command implementation: ls command, -a, -t, directories](https://github.com/nataliepcodes/My-Ls)\space Blue}$$
 * [Christmas tree project](https://github.com/nataliepcodes/Christmas-Tree-Project)
 * [C standard library function implementation: printf()](https://github.com/nataliepcodes/My-Printf)
 * [Unix command implementation: cat command](https://github.com/nataliepcodes/Cat-Command)
