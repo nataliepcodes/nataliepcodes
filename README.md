@@ -6,11 +6,11 @@
 ## Projects 📂
 
 **C Programming**
-* [C standard library function implementation: printf()](https://github.com/nataliepcodes/My-Printf)
-* [Christmas tree project](https://github.com/nataliepcodes/Christmas-Tree-Project)
-* [Game implementation: Mastermind](https://github.com/nataliepcodes/Mastermind)
-* [Unix command implementation: cat command](https://github.com/nataliepcodes/Cat-Command)
 * [Unix command implementation: ls command, -a, -t, directories](https://github.com/nataliepcodes/My-Ls)
+* [Christmas tree project](https://github.com/nataliepcodes/Christmas-Tree-Project)
+* [C standard library function implementation: printf()](https://github.com/nataliepcodes/My-Printf)
+* [Unix command implementation: cat command](https://github.com/nataliepcodes/Cat-Command)
+* [Game implementation: Mastermind](https://github.com/nataliepcodes/Mastermind) 
 
 **Python, Flask**
 * [cli chatbot](https://github.com/nataliepcodes/ChatBot_CL)
