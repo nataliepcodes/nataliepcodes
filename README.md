@@ -9,9 +9,8 @@
 * [C standard library function implementation: printf()](https://github.com/nataliepcodes/My-Printf)
 * [Christmas tree project](https://github.com/nataliepcodes/Christmas-Tree-Project)
 * [Game implementation: Mastermind](https://github.com/nataliepcodes/Mastermind)
-* [Unix command implementation: cat cmd](https://github.com/nataliepcodes/Cat-Command)
-* _Currently working on:_
-  * _[Unix command implementation: ls cmd with non-directory and directory operands](https://github.com/nataliepcodes/My-Ls)_
+* [Unix command implementation: cat command](https://github.com/nataliepcodes/Cat-Command)
+* [Unix command implementation: ls command, -a, -t, directories](https://github.com/nataliepcodes/My-Ls)_
 
 **Python, Flask**
 * [cli chatbot](https://github.com/nataliepcodes/ChatBot_CL)
