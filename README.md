@@ -30,4 +30,5 @@
 * [portfolio website example](https://nataliep-portfolio.netlify.app/) | [code](https://github.com/nataliepcodes/Portfolio-Website-nataliep) 
 * [weather app](https://upbeat-hypatia-8a3802.netlify.app/) | [code](https://github.com/nataliepcodes/weather-app-project)
 
-* 📫 How to reach me: infonpdevelopment@gmail.com
+## Contact 📫
+* How to reach me: infonpdevelopment@gmail.com
