@@ -2,8 +2,8 @@
 
 * ✨ Welcome to my _GitHub_ space!
 * 🙂 Pronouns: She/Her/Hers
-* 🌱 I’m currently learning ...
-* 🔭 I’m currently working on ...
+* 🌱 I’m currently learning Python Fullstack at Qwasar Software Engineering College
+* 🔭 I’m currently working on a project to create UML Class Diagram for National Parks
 
 
 ## Projects 📂
