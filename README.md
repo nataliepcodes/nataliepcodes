@@ -2,8 +2,8 @@
 
 * ✨ Welcome to my _GitHub_ space!
 * 🙂 Pronouns: She/Her/Hers
-* 🌱 I’m currently learning Python Fullstack at Qwasar Software Engineering College
-* 🔭 I’m currently working on My Dark Sky Weather App project
+* 🌱 Currently learning Python Fullstack at Qwasar Software Engineering College
+* 🔭 Currently working on My Dark Sky Weather App project
 
 
 ## Projects 📂
