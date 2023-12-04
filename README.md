@@ -29,8 +29,8 @@
 * [movies](https://github.com/nataliepcodes/SQL-movies)
 
 **HTML, CSS, JS**
-* [portfolio website example](https://nataliep-portfolio.netlify.app/) | [code](https://github.com/nataliepcodes/Portfolio-Website-nataliep) 
-* [weather app](https://upbeat-hypatia-8a3802.netlify.app/) | [code](https://github.com/nataliepcodes/weather-app-project)
+* [portfolio website example](https://nataliep-portfolio.netlify.app/)
+* [weather app](https://upbeat-hypatia-8a3802.netlify.app/)
 
 ## Contact 📫
 * How to reach me: infonpdevelopment@gmail.com
