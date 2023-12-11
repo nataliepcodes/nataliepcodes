@@ -1,4 +1,4 @@
-## Hello here! 👋
+## Hello | Здравствуйте! | Sveiki | Hallo | Bonjour! 👋
 
 * ✨ Welcome to my _GitHub_ space!
 * 🙂 Pronouns: She/Her/Hers
