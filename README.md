@@ -1,4 +1,4 @@
-## Hello   Bonjour   Sveiki   printf("Hello");   Hallo   print("Hello!")   Здравствуйте! 👋
+## Hello | Bonjour | Sveiki | Hallo | Здравствуйте! 👋
 
 * ✨ Welcome to my _GitHub_ space!
 * 🙂 Pronouns: She/Her/Hers
