@@ -4,7 +4,6 @@
 * 🙂 Pronouns: She/Her/Hers
 * 🚀 Enjoy to travel, exploring new cultures, and learning new languages
 * 🌱 Currently learning Python Fullstack at Qwasar Software Engineering School
-* 🔭 Currently working on My Dark Sky Weather App project
 
 
 ## Projects 📂
