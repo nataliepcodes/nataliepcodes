@@ -29,6 +29,7 @@
 * [movies](https://github.com/nataliepcodes/SQL-movies)
 
 **HTML, CSS, JS**
+* [add the Qwasar backend app here, to this list]
 * [portfolio website example](https://nataliep-portfolio.netlify.app/)
 * [weather app](https://upbeat-hypatia-8a3802.netlify.app/)
 
