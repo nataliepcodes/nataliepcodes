@@ -30,7 +30,7 @@
 * [movies](https://github.com/nataliepcodes/SQL-movies)
 
 **HTML, CSS, JS**
-* [portfolio website example](https://nataliep-portfolio.netlify.app/)
+* [portfolio website example](https://natalie-p-portfolio.netlify.app/)
 * [weather app](https://upbeat-hypatia-8a3802.netlify.app/)
 
 ## Contact 📫
