@@ -10,6 +10,7 @@
 ## Projects 📂
 
 **Python, Flask**
+* [QnA App](https://github.com/nataliepcodes/qnda-app)
 * [My IMDB API](https://github.com/nataliepcodes/my_imdb_api)
 * [National Parks UML](https://github.com/nataliepcodes/national_parks_uml)
 * [my_data_transform](https://github.com/nataliepcodes/my_data_transform)
