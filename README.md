@@ -5,7 +5,7 @@
 * 🚀 Apart from working and parenting, also enjoy to travel, exploring new cultures, and learning new languages
 * 🌱 Currently learning Python Fullstack via Udemy and Books
 * 📚 Studying towards BSc in Computing, IT and Psychology part-time and absolutely loving it! 🤓 💛
-* 💎 Latest thoughts and updates can be found here: [BLOG](https://natalie-p-portfolio.netlify.app/blog/blog)
+* >> Latest thoughts and updates can be found here: 💎[Blog](https://natalie-p-portfolio.netlify.app/blog/blog)
 
 
 ## Projects 📂
