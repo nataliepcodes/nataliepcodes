@@ -2,10 +2,9 @@
 
 * ✨ Welcome to my _GitHub_ space!
 * 🙂 Pronouns: She/Her/Hers
-* 🚀 Apart from working and parenting, also enjoy to travel, exploring new cultures, and learning new languages
+* 🚀 Apart from working and parenting, also enjoy travelling, exploring new cultures, and learning new languages
 * 🌱 Currently learning Python Fullstack via Udemy and Books
-* 📚 Studying towards BSc in Computing, IT and Psychology part-time and absolutely loving it! 🤓 💛
-* 🎯 Latest thoughts and updates can be found here: 💎 [Blog](https://natalie-p-portfolio.netlify.app/blog/blog)
+* 📚 Studying towards BSc in Computing, IT and Psychology (part-time) and absolutely loving it! 🤓 💛
 
 
 ## Projects 📂
@@ -13,7 +12,6 @@
 **Python, Flask**
 * [QnA App](https://github.com/nataliepcodes/qnda-app)
 * [My IMDB API](https://github.com/nataliepcodes/my_imdb_api)
-* [National Parks UML](https://github.com/nataliepcodes/national_parks_uml)
 * [my_data_transform](https://github.com/nataliepcodes/my_data_transform)
 * [my_data_process](https://github.com/nataliepcodes/my_data_process)
 * [Game implementation: Mastermind](https://github.com/nataliepcodes/my_mastermind_python)
@@ -26,6 +24,9 @@
 * [C standard library function implementation: printf()](https://github.com/nataliepcodes/My-Printf)
 * [Unix command implementation: cat command](https://github.com/nataliepcodes/Cat-Command)
 * [Game implementation: Mastermind](https://github.com/nataliepcodes/Mastermind) 
+
+**UML**
+* [National Parks UML](https://github.com/nataliepcodes/national_parks_uml)
 
 **SQL**
 * [fiftyville](https://github.com/nataliepcodes/fiftyville)
