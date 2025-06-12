@@ -3,7 +3,7 @@
 * ✨ Welcome to my _GitHub_ space!
 * 🙂 Pronouns: She/Her/Hers
 * 🚀 Apart from working and parenting, also enjoy travelling, exploring new cultures, and learning new languages
-* 🌱 Currently learning Python Fullstack via Udemy and Books
+* 🌱 Currently learning Python Fullstack via Codecademy, Udemy and Books
 
 
 ## Projects 📂
