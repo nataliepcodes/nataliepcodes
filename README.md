@@ -9,6 +9,7 @@
 ## Projects 📂
 
 **Python, Flask**
+* [Sunni 🐧 : The Weather App](https://github.com/nataliepcodes/python-weather-app-public)
 * [QnA App](https://github.com/nataliepcodes/qnda-app)
 * [My IMDB API](https://github.com/nataliepcodes/my_imdb_api)
 * [my_data_transform](https://github.com/nataliepcodes/my_data_transform)
