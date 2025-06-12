@@ -1,10 +1,9 @@
-## Hello | Bonjour | Sveiki | Hallo | Здравствуйте! 👋
+## Hello 👋
 
 * ✨ Welcome to my _GitHub_ space!
 * 🙂 Pronouns: She/Her/Hers
 * 🚀 Apart from working and parenting, also enjoy travelling, exploring new cultures, and learning new languages
 * 🌱 Currently learning Python Fullstack via Udemy and Books
-* 📚 Studying towards BSc in Computing, IT and Psychology (part-time) and absolutely loving it! 🤓 💛
 
 
 ## Projects 📂
