@@ -28,7 +28,7 @@
 **Project 4 · CHȦRLIE · Language Learning Platform**
 * unlocks when Project 3 is at version-1.0
 
-## Older Projects
+## Past Projects (2021 - 2025)
 **Python | Flask**
 * [Sunni 🐧Weather app that includes weather data for 45 Antarctica ❄️ research base stations](https://github.com/nataliepcodes/python-weather-app-public)
 * [Game implementation: Mastermind](https://github.com/nataliepcodes/my_mastermind_python)
@@ -45,5 +45,5 @@
 * [Game implementation: Mastermind](https://github.com/nataliepcodes/Mastermind)
 
 **HTML, CSS, JS**
-* [portfolio website example](https://natalie-p-portfolio.netlify.app/)
-* [weather app](https://upbeat-hypatia-8a3802.netlify.app/) 
+* [Portfolio website](https://natalie-p-portfolio.netlify.app/)
+* [Weather application](https://upbeat-hypatia-8a3802.netlify.app/) 
