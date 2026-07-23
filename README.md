@@ -32,7 +32,7 @@
 **Python | Flask**
 * [Sunni 🐧Weather app that includes weather data for 45 Antarctica ❄️ research base stations](https://github.com/nataliepcodes/python-weather-app-public)
 * [Game implementation: Mastermind](https://github.com/nataliepcodes/my_mastermind_python)
-* [cli chatbot](https://github.com/nataliepcodes/ChatBot_CL)
+* [CLI Chatbot](https://github.com/nataliepcodes/ChatBot_CL)
 
 **Unified Modelling Language (UML)**
 * [Class diagram for National Parks system](https://github.com/nataliepcodes/national_parks_uml)
