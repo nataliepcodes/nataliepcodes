@@ -1,5 +1,5 @@
 ## Advancing technical skills by learning Python Django Fullstack Development through 'self-teaching route' whilst completing personal projects
-### Project 1 · QUȮTES · Motivational Quotes Application 
+### Project 1 · QUȮTES 💎 · Motivational Quotes Application 
 - Quotes platform that displays a daily quote, quote author's profile, filters quotes by categories and provides a list of all quotes
 - Tech stack: Python 3, Django, SQLite database design, JSON data import, Bootstrap
 - Topics covered:
@@ -19,14 +19,14 @@
 - [Website](https://nataliepcodes.eu.pythonanywhere.com/)
 - STATUS: version-1.0
 
-**Project 2 · MȦRI · Women in Scienced Educational Platform**
-* unlocks when Project 1 is at version-1.0
+**Project 2 · MȦRI 🧬 · Women in Scienced Educational Platform**
+* 🔒 unlocks when Project 1 is at version-1.0
   
-**Project 3 · SȮLO · Music Playlist**
-* unlocks when Project 2 is at version-1.0
+**Project 3 · SȮLO 🎹 · Music Playlist**
+* 🔒 unlocks when Project 2 is at version-1.0
   
-**Project 4 · CHȦRLIE · Language Learning Platform**
-* unlocks when Project 3 is at version-1.0
+**Project 4 · CHȦRLIE 🦆 · Language Learning Platform**
+* 🔒 unlocks when Project 3 is at version-1.0
 
 ## Past Projects (2021 - 2025)
 **Python | Flask**
@@ -37,7 +37,7 @@
 **Unified Modelling Language (UML)**
 * [Class diagram for National Parks system](https://github.com/nataliepcodes/national_parks_uml)
   
-**C Programming**
+**C Programming ♥️ **
 * [Unix command implementation: ls command, -a, -t, directories](https://github.com/nataliepcodes/My-Ls)
 * [Christmas tree project](https://github.com/nataliepcodes/Christmas-Tree-Project)
 * [C standard library function implementation: printf()](https://github.com/nataliepcodes/My-Printf)
