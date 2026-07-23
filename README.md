@@ -19,13 +19,13 @@
 - [Website](https://nataliepcodes.eu.pythonanywhere.com/)
 - STATUS: version-1.0
 
-**Project 2**
+**Project 2 | MȦRI | Women in Scienced Educational Platform**
 * unlocks when Project 1 is at version-1.0
   
-**Project 3**
+**Project 3 | SȮLO | Music Playlist**
 * unlocks when Project 2 is at version-1.0
   
-**Project 4**
+**Project 4 | CHȦRLIE | Language Learning Platform**
 * unlocks when Project 3 is at version-1.0
 
 ## Older Projects
