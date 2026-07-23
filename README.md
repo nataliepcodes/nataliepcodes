@@ -1,4 +1,4 @@
-## Currently learning **Python Django Fullstack Development** through 'self-teaching route' by completing personal projects
+## Advancing technical skills by learning Python Django Fullstack Development through 'self-teaching route' whilst completing personal projects
 ### Project 1 · QUȮTES · Motivational Quotes Application 
 - Quotes platform that displays a daily quote, quote author's profile, filters quotes by categories and provides a list of all quotes
 - Tech stack: Python 3, Django, SQLite database design, JSON data import, Bootstrap
