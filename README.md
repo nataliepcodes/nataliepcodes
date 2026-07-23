@@ -1,5 +1,5 @@
-## Currently learning Python Django Fullstack Development through 'self-teaching route' by completing personal projects
-### Project 1 | QUȮTES | Motivational Quotes Application 
+## Currently learning **Python Django Fullstack Development** through 'self-teaching route' by completing personal projects
+### Project 1 · QUȮTES · Motivational Quotes Application 
 - Quotes platform that displays a daily quote, quote author's profile, filters quotes by categories and provides a list of all quotes
 - Tech stack: Python 3, Django, SQLite database design, JSON data import, Bootstrap
 - Topics covered:
@@ -19,13 +19,13 @@
 - [Website](https://nataliepcodes.eu.pythonanywhere.com/)
 - STATUS: version-1.0
 
-**Project 2 | MȦRI | Women in Scienced Educational Platform**
+**Project 2 · MȦRI · Women in Scienced Educational Platform**
 * unlocks when Project 1 is at version-1.0
   
-**Project 3 | SȮLO | Music Playlist**
+**Project 3 · SȮLO · Music Playlist**
 * unlocks when Project 2 is at version-1.0
   
-**Project 4 | CHȦRLIE | Language Learning Platform**
+**Project 4 · CHȦRLIE · Language Learning Platform**
 * unlocks when Project 3 is at version-1.0
 
 ## Older Projects
