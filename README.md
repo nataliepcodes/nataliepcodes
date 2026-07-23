@@ -19,9 +19,12 @@
 - [Website](https://nataliepcodes.eu.pythonanywhere.com/)
 - STATUS: version-1.0
 
-**Project 2: starts once Project 1 is at version-1.0**
-**Project 3: starts once Project 2 is at version-1.0**
-**Project 4: starts once Project 3 is at version-1.0**
+**Project 2**
+* unlocks once Project 1 is at version-1.0
+**Project 3**
+* unlocks once Project 2 is at version-1.0
+**Project 4**
+* unlocks once Project 3 is at version-1.0
 
 ## Older Projects
 **Python | Flask**
