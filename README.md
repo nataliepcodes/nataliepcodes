@@ -26,7 +26,12 @@
 ## Older Projects
 **Python | Flask**
 * [Sunni 🐧Weather app that includes weather data for 45 Antarctica ❄️ research base stations](https://github.com/nataliepcodes/python-weather-app-public)
-* 
+* [Game implementation: Mastermind](https://github.com/nataliepcodes/my_mastermind_python)
+* [cli chatbot](https://github.com/nataliepcodes/ChatBot_CL)
+
+**Unified Modelling Language (UML)**
+* [Class diagram for National Parks system](https://github.com/nataliepcodes/national_parks_uml)
+  
 **C Programming**
 * [Unix command implementation: ls command, -a, -t, directories](https://github.com/nataliepcodes/My-Ls)
 * [Christmas tree project](https://github.com/nataliepcodes/Christmas-Tree-Project)
@@ -34,8 +39,6 @@
 * [Unix command implementation: cat command](https://github.com/nataliepcodes/Cat-Command)
 * [Game implementation: Mastermind](https://github.com/nataliepcodes/Mastermind)
 
-**Unified Modeling Language (UML)**
-
 **HTML, CSS, JS**
-* [portfolio website example](https://nataliep-portfolio.netlify.app/) | [code](https://github.com/nataliepcodes/Portfolio-Website-nataliep) 
-* [weather app](https://upbeat-hypatia-8a3802.netlify.app/) | [code](https://github.com/nataliepcodes/weather-app-project)
+* [portfolio website example](https://natalie-p-portfolio.netlify.app/)
+* [weather app](https://upbeat-hypatia-8a3802.netlify.app/) 
