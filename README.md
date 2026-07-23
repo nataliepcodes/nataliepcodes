@@ -1,6 +1,6 @@
 ## Currently learning Python and Django Fullstack by completing personal projects
 ### Project 1 | QUȮTES | Motivational Quotes Application 
-- Quotes platform that displays a daily quote, quote's author profile, filters quotes by categories and provides a list of all quotes
+- Quotes platform that displays a daily quote, quote author's profile, filters quotes by categories and provides a list of all quotes
 - Tech stack: Python 3, Django, SQLite database design, JSON data import, Bootstrap
 - Topics covered:
   - Project structure set up
@@ -32,7 +32,7 @@
 **Unified Modelling Language (UML)**
 * [Class diagram for National Parks system](https://github.com/nataliepcodes/national_parks_uml)
   
-**🤍 C Programming**
+**C Programming**
 * [Unix command implementation: ls command, -a, -t, directories](https://github.com/nataliepcodes/My-Ls)
 * [Christmas tree project](https://github.com/nataliepcodes/Christmas-Tree-Project)
 * [C standard library function implementation: printf()](https://github.com/nataliepcodes/My-Printf)
