@@ -37,7 +37,7 @@
 **Unified Modelling Language (UML)**
 * [Class diagram for National Parks system](https://github.com/nataliepcodes/national_parks_uml)
   
-**C Programming ♥️ **
+**C Programming 💙 **
 * [Unix command implementation: ls command, -a, -t, directories](https://github.com/nataliepcodes/My-Ls)
 * [Christmas tree project](https://github.com/nataliepcodes/Christmas-Tree-Project)
 * [C standard library function implementation: printf()](https://github.com/nataliepcodes/My-Printf)
