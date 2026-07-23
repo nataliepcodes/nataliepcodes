@@ -19,9 +19,9 @@
 - [Website](https://nataliepcodes.eu.pythonanywhere.com/)
 - STATUS: version-1.0
 
-### Project 2: starts once Project 1 is at version-1.0
-### Project 3: starts once Project 2 is at version-1.0
-### Project 4: starts once Project 3 is at version-1.0
+**Project 2: starts once Project 1 is at version-1.0**
+**Project 3: starts once Project 2 is at version-1.0**
+**Project 4: starts once Project 3 is at version-1.0**
 
 ## Older Projects
 **Python | Flask**
@@ -32,7 +32,7 @@
 **Unified Modelling Language (UML)**
 * [Class diagram for National Parks system](https://github.com/nataliepcodes/national_parks_uml)
   
-**C Programming**
+**🤍 C Programming**
 * [Unix command implementation: ls command, -a, -t, directories](https://github.com/nataliepcodes/My-Ls)
 * [Christmas tree project](https://github.com/nataliepcodes/Christmas-Tree-Project)
 * [C standard library function implementation: printf()](https://github.com/nataliepcodes/My-Printf)
