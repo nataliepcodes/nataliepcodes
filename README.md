@@ -19,7 +19,7 @@
 - [Website](https://nataliepcodes.eu.pythonanywhere.com/)
 - STATUS: version-1.0
 
-### Project 2 · MȦRI 🧬 · Women in Scienced Educational Platform
+### Project 2 · MȦRI 🧬 · Women in Science Educational Platform
 - MȦRI is an educational content platform focused on sharing a content about inspiring women in science, their achievements, and their stories
 - Tech Stack: Python 3, Django, Bootstrap
 - Topics covered:
