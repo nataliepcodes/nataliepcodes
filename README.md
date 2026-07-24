@@ -19,8 +19,19 @@
 - [Website](https://nataliepcodes.eu.pythonanywhere.com/)
 - STATUS: version-1.0
 
-**Project 2 · MȦRI 🧬 · Women in Scienced Educational Platform**
-* 🔒 unlocks when Project 1 is at version-1.0
+### Project 2 · MȦRI 🧬 · Women in Scienced Educational Platform
+- MȦRI is an educational content platform focused on sharing a content about inspiring women in science, their achievements, and their stories
+- Tech Stack: Python 3, Django, Bootstrap
+- Topics covered:
+  - user authentication (login, logout, password change)
+  - structured data models
+  - categories
+  - administration site for user management
+  - administration site set up with models
+  - ... more will be added as the project progresses
+- [Project repository](https://github.com/nataliepcodes/content-sharing-app)
+- [Change log](https://github.com/nataliepcodes/content-sharing-app/blob/main/CHANGELOG/CHANGELOG.md)
+- STATUS: version-0.1 | work in progress
   
 **Project 3 · SȮLO 🎹 · Music Playlist**
 * 🔒 unlocks when Project 2 is at version-1.0
