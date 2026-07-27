@@ -1,54 +1,18 @@
-## Advancing technical skills by learning Python Django Fullstack Development through 'self-teaching route' whilst completing personal projects
-### Project 1 · QUȮTES 💎 · Motivational Quotes Application 
-- Quotes platform that displays a daily quote, quote author's profile, filters quotes by categories and provides a list of all quotes
-- Tech stack: Python 3, Django, SQLite database design, JSON data import, Bootstrap
-- Topics covered:
-  - Project structure set up
-  - Creating models
-  - Database design
-  - Foreign key, one-to-many and many-to-many data relationships
-  - Building views
-  - Building URL patterns
-  - Administration site set up with models
-  - Importing data via JSON and creating custom data loading commands
-  - Designing responsive user interface, adding site navigation
-  - Secret key management
-  - Project deployment through PythonAnywhere
-- [Project repository](https://github.com/nataliepcodes/motivational-quotes-app)
-- [Change log](https://github.com/nataliepcodes/motivational-quotes-app/blob/main/CHANGELOG/CHANGELOG.md)
-- [Website](https://nataliepcodes.eu.pythonanywhere.com/)
-- STATUS: version-1.0
-
-### Project 2 · MȦRI 🧬 · Women in Science Educational Platform
-- MȦRI is an educational content platform focused on sharing a content about inspiring women in science, their achievements, and their stories
-- Tech Stack: Python 3, Django, Bootstrap
-- Topics covered:
-  - user authentication (login, logout, password change)
-  - structured data models
-  - categories
-  - administration site for user management
-  - administration site set up with models
-  - ... more will be added as the project progresses
-- [Project repository](https://github.com/nataliepcodes/content-sharing-app)
-- [Change log](https://github.com/nataliepcodes/content-sharing-app/blob/main/CHANGELOG/CHANGELOG.md)
-- STATUS: version-0.1 | work in progress
-  
-**Project 3 · SȮLO 🎹 · Music Playlist**
-* 🔒 unlocks when Project 2 is at version-1.0
-  
-**Project 4 · CHȦRLIE 🦆 · Language Learning Platform**
-* 🔒 unlocks when Project 3 is at version-1.0
+## Current Projects (2026)
+**Python | Django**
+* [QUȮTES Motivational Quotes Application](https://github.com/nataliepcodes/motivational-quotes-app)
+* [MȦRI Women in Science Educational Platform](https://github.com/nataliepcodes/content-sharing-app)  
 
 ## Past Projects (2021 - 2025)
 **Python | Flask**
-* [Sunni 🐧Weather app that includes weather data for 45 Antarctica ❄️ research base stations](https://github.com/nataliepcodes/python-weather-app-public)
+* [SUNNI Weather app that includes weather data for 45 Antarctica research base stations](https://github.com/nataliepcodes/python-weather-app-public)
 * [Game implementation: Mastermind](https://github.com/nataliepcodes/my_mastermind_python)
 * [CLI Chatbot](https://github.com/nataliepcodes/ChatBot_CL)
 
 **Unified Modelling Language (UML)**
 * [Class diagram for National Parks system](https://github.com/nataliepcodes/national_parks_uml)
   
-**C Programming 💙**
+**C Programming**
 * [Unix command implementation: ls command, -a, -t, directories](https://github.com/nataliepcodes/My-Ls)
 * [Christmas tree project](https://github.com/nataliepcodes/Christmas-Tree-Project)
 * [C standard library function implementation: printf()](https://github.com/nataliepcodes/My-Printf)
