@@ -7,6 +7,7 @@
 **Python | Flask**
 * [SUNNI Weather app that includes weather data for 45 Antarctica research base stations](https://github.com/nataliepcodes/python-weather-app-public)
 * [Game implementation: Mastermind](https://github.com/nataliepcodes/my_mastermind_python)
+* [IMDB API](https://github.com/nataliepcodes/my_imdb_api)
 * [CLI Chatbot](https://github.com/nataliepcodes/ChatBot_CL)
 
 **Unified Modelling Language (UML)**
