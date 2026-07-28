@@ -5,21 +5,21 @@
 
 ## Past Projects (2021 - 2025)
 **Python | Flask**
-* [SUNNI Weather app that includes weather data for 45 Antarctica research base stations](https://github.com/nataliepcodes/python-weather-app-public)
-* [Game implementation: Mastermind](https://github.com/nataliepcodes/my_mastermind_python)
+* [SUNNI WEATHER app that includes weather data for 45 Antarctica research base stations](https://github.com/nataliepcodes/python-weather-app-public)
+* [MASTERMIND Game implementation](https://github.com/nataliepcodes/my_mastermind_python)
 * [IMDB API](https://github.com/nataliepcodes/my_imdb_api)
 * [CLI Chatbot](https://github.com/nataliepcodes/ChatBot_CL)
 
 **Unified Modelling Language (UML)**
-* [Class diagram for National Parks system](https://github.com/nataliepcodes/national_parks_uml)
+* [UML Class diagram for National Parks system](https://github.com/nataliepcodes/national_parks_uml)
   
 **C Programming**
-* [Unix command implementation: ls command, -a, -t, directories](https://github.com/nataliepcodes/My-Ls)
-* [Christmas tree project](https://github.com/nataliepcodes/Christmas-Tree-Project)
-* [C standard library function implementation: printf()](https://github.com/nataliepcodes/My-Printf)
-* [Unix command implementation: cat command](https://github.com/nataliepcodes/Cat-Command)
-* [Game implementation: Mastermind](https://github.com/nataliepcodes/Mastermind)
+* [UNIX LS command implementation: ls command, -a, -t, directories](https://github.com/nataliepcodes/My-Ls)
+* [CHRISTMAS TREE project](https://github.com/nataliepcodes/Christmas-Tree-Project)
+* [PRINTF: C standard library function implementation: printf()](https://github.com/nataliepcodes/My-Printf)
+* [UNIX CAT command implementation - cat command](https://github.com/nataliepcodes/Cat-Command)
+* [MASTERMIND Game implementation](https://github.com/nataliepcodes/Mastermind)
 
 **HTML, CSS, JS**
-* [Portfolio website](https://natalie-p-portfolio.netlify.app/)
-* [Weather application](https://upbeat-hypatia-8a3802.netlify.app/) 
+* [PORTFOLIO website](https://natalie-p-portfolio.netlify.app/)
+* [WEATHER application](https://upbeat-hypatia-8a3802.netlify.app/) 
