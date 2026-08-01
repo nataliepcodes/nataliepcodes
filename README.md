@@ -1,7 +1,7 @@
 ## Current Projects (2026)
 **Python | Django**
 * [QUȮTES Motivational Quotes Application](https://github.com/nataliepcodes/motivational-quotes-app)
-* [MȦRI inspiring Women leaders in STEM - Educational Platform](https://github.com/nataliepcodes/content-sharing-app)  
+* [MȦRI inspiring Women leaders in STEM - Educational Platform](https://github.com/nataliepcodes/inspiring-stem-leaders)  
 
 ## Past Projects (2021 - 2025)
 **Python | Flask**
