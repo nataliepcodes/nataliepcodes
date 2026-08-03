@@ -1,8 +1,14 @@
 ## Current Projects (2026)
 **Python | Django**
 * [QUȮTES Motivational Quotes Application](https://github.com/nataliepcodes/motivational-quotes-app)
-* [MȦRI inspiring Women leaders in STEM - Educational Platform](https://github.com/nataliepcodes/inspiring-stem-leaders)  
-
+* [MȦRI inspiring Women leaders in STEM - Educational Platform](https://github.com/nataliepcodes/inspiring-stem-leaders)
+  - Women are underrepresented in STEM education and STEM careers
+  - SOURCE: https://www.unesco.org/en/gender-equality/education/stem
+  - Only 35% of STEM graduates are women, a figure that remains unchanged for decades
+  - Many girls and women are disadvantaged by biases and social expectations and this influences the education they receive, and the fields they pursue
+  - MȦRI is an educational platform focused on inspiring women in *STEM
+  - MȦRI MVP/version-1.0 is planned for the 6th September 2026 to celebrate my 5 years of Coding Anniversary 🎉💜
+    
 ## Past Projects (2021 - 2025)
 **Python | Flask**
 * [SUNNI WEATHER app that includes weather data for 45 Antarctica research base stations](https://github.com/nataliepcodes/python-weather-app-public)
