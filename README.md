@@ -2,6 +2,7 @@
 **Python | Django**
 * [QUȮTES Motivational Quotes Application](https://github.com/nataliepcodes/motivational-quotes-app)
 * [MȦRI inspiring Women leaders in STEM - Educational Platform](https://github.com/nataliepcodes/inspiring-stem-leaders)
+  - MȦRI: name inspired by Marie Curie's contribution to science
   - Women are underrepresented in STEM education and STEM careers
   - SOURCE: https://www.unesco.org/en/gender-equality/education/stem
   - Only 35% of STEM graduates are women, a figure that remains unchanged for decades
