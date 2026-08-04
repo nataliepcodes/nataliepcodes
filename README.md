@@ -1,7 +1,7 @@
 ## Current Projects (2026)
 **Python | Django**
 * [QUȮTES Motivational Quotes Application](https://github.com/nataliepcodes/motivational-quotes-app)
-* [MȦRI inspiring Women leaders in STEM - Educational Platform](https://mari-stem.my.canva.site/)
+* [MȦRI inspiring Women leaders in STEM - Educational Platform](https://github.com/nataliepcodes/inspiring-stem-leaders)
   - MȦRI: name inspired by Marie Curie's contribution to science
   - Women are underrepresented in *STEM education and STEM careers
   - Only 35% of STEM graduates are women, a figure that remains unchanged for decades
@@ -9,8 +9,7 @@
   - Sources:
     - [STEM](https://www.unesco.org/en/gender-equality/education/stem)
     - [Advancing Gender Equality in STEM](https://www.unesco.org/en/articles/advancing-gender-equality-stem-education-inspiring-girls-pursue-science#:~:text=Women%20and%20girls%20remain%20underrepresented,confidence%20and%20pursuing%20scientific%20careers.)
-  - MȦRI is an educational platform focused on inspiring women in STEM
-  - MȦRI MVP/version-1.0 is planned for the 6th September 2026 to celebrate my 5 years of Coding Anniversary 🎉💜
+  - MȦRI is an educational platform focused on providing STEM role models related content to inspire more females to join STEM field
   - *STEM: Science, Technology, Engineering, Math
     
 ## Past Projects (2021 - 2025)
