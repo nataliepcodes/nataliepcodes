@@ -1,3 +1,6 @@
+**Python | Django**
+* [QUȮTES Motivational Quotes Application](https://nataliepcodes.eu.pythonanywhere.com/)
+
 **Python | Flask**
 * [SUNNI WEATHER app that includes weather data for 45 Antarctica research base stations](https://github.com/nataliepcodes/python-weather-app-public)
 * [MASTERMIND Game implementation](https://github.com/nataliepcodes/my_mastermind_python)
