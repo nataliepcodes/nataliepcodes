@@ -10,7 +10,7 @@
   * having eagerness to keep trying new things,
   * having resilience to keep going against all odds,
   * enjoying the journey even when it is full of obstacles and challenges, and seeing these as opportunities for learning and exploring new things,
-  * having a positive mindset and a good sense of humour
+  * having a positive mindset and a good sense of humour\
   Then, no matter what you do in life, you will always find your way, and might even discover a few like-minded people who sometimes like to check in on your projects, and collaborate.
 * Feel free to explore my GitHub space, and if you want to add anything to any of the projects - you are more than welcome to contribute!
   
