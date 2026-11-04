@@ -1,5 +1,6 @@
 **Python | Django**
 * [QUȮTES Motivational Quotes Application](https://github.com/nataliepcodes/motivational-quotes-app)
+* [MȦRI: Leaders in STEM Educational Platform](https://github.com/nataliepcodes/inspiring-stem-leaders)
 
 **Python | Flask**
 * [SUNNI WEATHER app that includes weather data for 45 Antarctica research base stations](https://github.com/nataliepcodes/python-weather-app-public)
