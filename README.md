@@ -1,5 +1,5 @@
 **Python | Django**
-* [QUȮTES Motivational Quotes Application](https://nataliepcodes.eu.pythonanywhere.com/)
+* [QUȮTES Motivational Quotes Application](https://github.com/nataliepcodes/motivational-quotes-app)
 
 **Python | Flask**
 * [SUNNI WEATHER app that includes weather data for 45 Antarctica research base stations](https://github.com/nataliepcodes/python-weather-app-public)
