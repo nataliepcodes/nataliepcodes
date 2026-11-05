@@ -16,7 +16,7 @@
 
 **Python**
 * [PDF Merger](https://github.com/nataliepcodes/merge-pdf-files)
-* [Pyweek42, 2026 - The Friends Game Collaboration](https://github.com/nataliepcodes/the-friends-game)
+* [Pyweek42, 2026 - The Friends Game Collaboration](https://github.com/nataliepcodes/the-friends-game/tree/main/demo-version-submission-file/The-Friends-Game-1.0)
 * [Birthdays app - CS50](https://github.com/nataliepcodes/CS50-Birthdays-App-Project)
 * [MASTERMIND Game implementation](https://github.com/nataliepcodes/my_mastermind_python)
 * [CLI Chatbot](https://github.com/nataliepcodes/ChatBot_CL)
